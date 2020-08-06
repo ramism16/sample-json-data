@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"teslam"},
-{"type":"table","name":"products","database":"teslam","data":
+{
 [
 {"id":"1","name":"Fish","price":"37.43","discount_price":"0.00","description":"Consequuntur quia aperiam sint omnis porro. Accusamus ut ducimus quia voluptatem. Rem sapiente ab numquam iste dolores nostrum laudantium officiis. Odio optio itaque omnis magni.","capacity":"178.38","package_items_count":"2.00","unit":"Kg","featured":"1","deliverable":"1","market_id":"3","category_id":"3","created_at":"2020-07-22 16:16:24","updated_at":"2020-07-22 16:16:24"},
 {"id":"2","name":"Salad","price":"19.15","discount_price":"0.00","description":"Laboriosam qui consequuntur voluptas quia molestiae voluptatem. Suscipit et autem id.","capacity":"91.22","package_items_count":"6.00","unit":"Kg","featured":"1","deliverable":"0","market_id":"5","category_id":"3","created_at":"2020-07-22 16:16:24","updated_at":"2020-07-22 16:16:24"},
@@ -45,4 +42,3 @@
 {"id":"40","name":"Milk","price":"25.34","discount_price":"0.00","description":"Incidunt explicabo ut ut earum. Laudantium et assumenda tenetur. Iste nobis aut et alias et.","capacity":"334.15","package_items_count":"6.00","unit":"Kg","featured":"1","deliverable":"1","market_id":"5","category_id":"3","created_at":"2020-07-22 16:16:24","updated_at":"2020-07-22 16:16:24"}
 ]
 }
-]
